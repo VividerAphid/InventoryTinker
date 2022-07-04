@@ -1,0 +1,25 @@
+Item:
+-Name
+-Quantity
+-Expiration (Opt)
+    -Alerts when close to expiration
+-Location (Opt)
+-Auto-reorder (Opt)
+
+Shopping List:
+-Populated by:
+    -Manual entry
+    -Auto-reorder
+    -Meal Plans/Events
+
+Events:
+-Meal Plans
+-Other Events
+-Populate Shopping List accordingly
+
+Inventory:
+-Set up locations
+-Can view what is in each location
+
+Themes/Colors:
+
